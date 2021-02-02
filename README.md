@@ -1,7 +1,6 @@
 # peopleapi-zup
 
-Hoje iremos abordar, a criação de uma API Rest, com a tecnologia Java, Spring boot e hibernate, e os motivos que nós levaram a esta escolha.
-O Nosso projeto consiste em criar uma API, que receberá as requisições HTTP, do frontend, para criar os dados de um cliente para abertura de conta corrente. Para isso, deveremos obter os seguintes atributos: 
+Nosso projeto consiste em criar uma API, que receberá as requisições HTTP, do frontend, para criar os dados de um cliente para abertura de conta corrente. Para isso, deveremos obter os seguintes atributos: 
 •	Nome; 
 •	E-mail, 
 •	CPF e 
